@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋,I'm Akshat Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEg0v-gEmd0x93a8KuFrkQxxvLFeWQOlDPXnBpwXyaLvDyL_ZXUk2MKmDrASNo9QY1d402I1Lc3B0bd-7-nz93P3598IIZDHnI1Qd-a2AAVleFBxVEQig-Cnjmdvt9XnTCHafGWBJlzP6N7OBLLDCs5F7U8PSnszzqBBQPIzeavcIn1ky7RnI2Amh1uSjA"
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEg0v-gEmd0x93a8KuFrkQxxvLFeWQOlDPXnBpwXyaLvDyL_ZXUk2MKmDrASNo9QY1d402I1Lc3B0bd-7-nz93P3598IIZDHnI1Qd-a2AAVleFBxVEQig-Cnjmdvt9XnTCHafGWBJlzP6N7OBLLDCs5F7U8PSnszzqBBQPIzeavcIn1ky7RnI2Amh1uSjA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatsinghgaur&label=Profile%20views&color=0e75b6&style=flat" alt="akshatsinghgaur" /> </p>
 
