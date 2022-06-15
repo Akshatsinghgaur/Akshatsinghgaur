@@ -1,7 +1,7 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="60%" alt="Hello👋, I'm Akshat. I do open source!" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLZa9zfSaZFcZVt2yvtHe1kc4qbVyDlJ70fpmlihDLjU3G7jtLX50NM83zTPpCVmK_TEhtl0C0vmVSKxRIkASfYcx8Q5BkUla-gM7UN0DYmFq6d-Uv3PyrCqYZu4xgm-CYmnJTQrc8vVcsXly3xRiziM7RY6txWu_BXhhTqEbvm-Q_zuxsZfpEs4S9rg/s16000/banner.png" /></a></p>
 <img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEg0v-gEmd0x93a8KuFrkQxxvLFeWQOlDPXnBpwXyaLvDyL_ZXUk2MKmDrASNo9QY1d402I1Lc3B0bd-7-nz93P3598IIZDHnI1Qd-a2AAVleFBxVEQig-Cnjmdvt9XnTCHafGWBJlzP6N7OBLLDCs5F7U8PSnszzqBBQPIzeavcIn1ky7RnI2Amh1uSjA">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatsinghgaur&label=Profile%20views&color=0e75b6&style=flat" alt="akshatsinghgaur" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/akshatsg29" target="blank"><img src="https://img.shields.io/twitter/follow/akshatsg29?logo=twitter&style=for-the-badge" alt="akshatsg29" /></a> </p>
 
